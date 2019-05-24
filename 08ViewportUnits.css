@@ -1,0 +1,11 @@
+.parent {
+background: tomato;
+height: 70vh;
+width: 50vw;
+}
+
+.child {
+background: lime;
+height: 50vh;
+width: 60vw;
+}
